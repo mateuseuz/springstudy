@@ -9,8 +9,8 @@
 - Abra o projeto em sua IDE preferida (Eclipse, IntelliJ ou outra).
 - Certifique-se de ter o Maven configurado e instalado.
 
-**Endpoints da API**
-Os endpoints disponíveis para interação com as entidades são os seguintes:
+**Endpoints da API**   
+Os endpoints disponíveis para interação com as entidades são os seguintes:   
 /alunos (Alunos), /instrutores (Instrutores), /jiujitsu (Aulas de Jiu Jitsu) e /zumba (aulas de Zumba).
 
 *Autor: Mateus Euzébio*

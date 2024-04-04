@@ -1,8 +1,7 @@
 # Spring Boot - Sistema de Gerenciamento de Academia
 
-### Projeto desenvolvido na linguagem Java usando a tecnologia Spring Boot para representar um sistema simples de gerenciamento de alunos, instrutores, treinos e aulas de uma academia.   
-### O projeto inclui as funionalidades básicas do CRUD através de requisições em formato JSON.   
-### Ciência da Computação, UniFil - Lógica de Programação Orientada a Objetos.
+Projeto desenvolvido na linguagem Java usando a tecnologia Spring Boot para representar um sistema simples de gerenciamento de alunos, instrutores, treinos e aulas de uma academia.   
+O projeto inclui as funionalidades básicas do CRUD através de requisições em formato JSON.
 
 **Como executar o projeto**
 - Clone o repositório para o seu ambiente local.
@@ -13,4 +12,5 @@
 Os endpoints disponíveis para interação com as entidades são os seguintes:   
 /alunos (Alunos), /instrutores (Instrutores), /jiujitsu (Aulas de Jiu Jitsu) e /zumba (aulas de Zumba).
 
-*Autor: Mateus Euzébio*
+*Autor: Mateus Euzébio*   
+*Ciência da Computação, UniFil - Lógica de Programação Orientada a Objetos.*

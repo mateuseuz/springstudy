@@ -12,5 +12,7 @@ O projeto inclui as funionalidades básicas do CRUD através de requisições em
 Os endpoints disponíveis para interação com as entidades são os seguintes:   
 /alunos (Alunos), /instrutores (Instrutores), /jiujitsu (Aulas de Jiu Jitsu) e /zumba (aulas de Zumba).
 
+Link do vídeo de apresentação: [Drive](https://drive.google.com/file/d/1MFnTdDx1CqSrVml33PW3sj8Ph-Yk60q9/view?usp=sharing)
+
 *Autor: Mateus Euzébio*   
 *Ciência da Computação, UniFil - Lógica de Programação Orientada a Objetos.*
